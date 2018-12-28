@@ -12,8 +12,9 @@ npm run dev
 
 4. Open server
 ```
+npm i -S mongoose
 cd server
-npm start
+npm start && node src/app.js
 ```
 
 5. go to =>`http://localhost:8080`
